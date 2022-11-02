@@ -303,3 +303,4 @@ void pasarDeADLToArchivoDeAprobados (char nombreArchivo[], celda adl[], int vali
     }
 }
 
+
